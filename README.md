@@ -24,7 +24,7 @@ I specialize in 💭 wrangling data into actionable 💡 insights. Currently, I'
 
 ⚡ **Fun Fact:** When I'm not crunching data, you can find me exploring new hiking trails or experimenting with new recipes in the kitchen.
 
-<img align="right" alt="Coding" width="500" height="600" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif">
+<img align="right" alt="Coding" width="400" height="500" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif">
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=6000&lines=Connect+Me!+🌐;+Connect+Me!;" alt="Connect Me" />
