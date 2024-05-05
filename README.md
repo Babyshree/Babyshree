@@ -24,9 +24,9 @@ I specialize in 💭 wrangling data into actionable 💡 insights. Currently, I'
 
 ⚡ **Fun Fact:** When I'm not crunching data, you can find me exploring new hiking trails or experimenting with new recipes in the kitchen.
 
-<img align="right" alt="Coding" width="500" height="600" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif">
-<br></br>
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=4000&lines=Connect+Me!+🌐;+Connect+Me!;" alt="Connect Me" />
+<img align="right" alt="Coding" width="450" height="500" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif">
+
+### Connect Me! 🌐
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/baby-shree-j-084406286/)[<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="30" /> Kaggle](https://www.kaggle.com/babyshree)
@@ -47,14 +47,15 @@ I specialize in 💭 wrangling data into actionable 💡 insights. Currently, I'
 
 <div align="center">
  <br/><br/>
- <br/><br/>
-
-  ![Readme Stats](https://github-readme-stats-salesp07.vercel.app/api?username=Babyshree&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
-
+ 
+![Readme Stats](https://github-readme-stats-salesp07.vercel.app/api?username=Babyshree&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
+<br/><br/>
 
 ![Streak Stats](https://github-readme-streak-stats-salesp07.vercel.app/?user=Babyshree&count_private=true&theme=react&border_radius=10)
+<br/><br/>
 
 ![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Babyshree&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
+<br/><br/>
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
