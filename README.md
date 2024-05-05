@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hey+There!+👩🏻‍💻;+I'm+BABY+SHREE!+👩🏻‍💻;" alt="Hi, I'm BABY SHREE" />
 <br></br>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=About+Me!+🐻‍❄️;+About+Me!;" alt="About Me" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=About+Me!+🐻‍❄️;+About+Me!;" alt="About Me" />
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">[![](https://visitcount.itsvg.in/api?id=Babyshree&icon=0&color=1)](https://visitcount.itsvg.in) </div>
 **💫 A data-driven dreamer coding for a brighter tomorrow! 🌟**
@@ -24,12 +24,12 @@ I specialize in 💭 wrangling data into actionable 💡 insights. Currently, I'
 
 ⚡ **Fun Fact:** When I'm not crunching data, you can find me exploring new hiking trails or experimenting with new recipes in the kitchen.
 
-<img align="right" alt="Coding" width="400" height="500" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif">
+<img align="right" alt="Coding" width="500" height="600" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif">
+<br></br>
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=4000&lines=Connect+Me!+🌐;+Connect+Me!;" alt="Connect Me" />
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=6000&lines=Connect+Me!+🌐;+Connect+Me!;" alt="Connect Me" />
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/baby-shree-j-084406286/)[<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="30" /> Kaggle](https://www.kaggle.com/babyshree)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/baby-shree-j-084406286/)[<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="30" /> Kaggle](https://www.kaggle.com/babyshree)
 </div>
 
 ### 📑 Tech Stack:
@@ -47,16 +47,15 @@ I specialize in 💭 wrangling data into actionable 💡 insights. Currently, I'
 
 <div align="center">
  <br/><br/>
+ <br/><br/>
 
   ![Readme Stats](https://github-readme-stats-salesp07.vercel.app/api?username=Babyshree&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
-<br></br>
 
 
 ![Streak Stats](https://github-readme-streak-stats-salesp07.vercel.app/?user=Babyshree&count_private=true&theme=react&border_radius=10)
-<br></br>
 
 ![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Babyshree&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
-<br></br>
+
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
