@@ -2,9 +2,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hey+There!+👩🏻‍💻;+I'm+BABY+SHREE!+👩🏻‍💻;" alt="Hi, I'm BABY SHREE" />
 <br></br>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=About+Me!+🐻‍❄️;+About+Me!;" alt="About Me" />
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">[![](https://visitcount.itsvg.in/api?id=Babyshree&icon=0&color=1)](https://visitcount.itsvg.in) </div>
+# ABOUT ME 
+
+[![](https://visitcount.itsvg.in/api?id=Babyshree&icon=0&color=1)](https://visitcount.itsvg.in) </div>
 **💫 A data-driven dreamer coding for a brighter tomorrow! 🌟**
 
 🌟 With a Bachelor's degree in Computer Science, I'm on a mission to leverage the power of data for positive change and innovation.
@@ -26,7 +27,7 @@ I specialize in 💭 wrangling data into actionable 💡 insights. Currently, I'
 
 <img align="right" alt="Coding" width="450" height="500" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif">
 
-### Connect Me! 🌐
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Connect Me! 🌐
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/baby-shree-j-084406286/)[<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="30" /> Kaggle](https://www.kaggle.com/babyshree)
