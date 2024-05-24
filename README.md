@@ -15,15 +15,12 @@
 📝 Proficient in Python [<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="70" height="30">](https://giphy.com/gifs/coxQHKASG60HrHtvkt) and SQL [<img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="70" height="30">](https://giphy.com/gifs/vISmwpBJUNYzukTnVx)
 I specialize in 💭 wrangling data into actionable 💡 insights. Currently, I'm sharpening my skills through online courses in 📙 Data science and 🏆 Machine learning.
 
-🔭 **Currently Working On:** Exploring the fascinating realm of data science and machine learning, and diving deep into personal projects that apply my skills to solve pressing problems.
-
 👯 **Looking to Collaborate On:** Seeking collaborations with fellow enthusiasts and organizations committed to leveraging data for positive change. Let's join forces to make an impact together!
 
 🤝 **Seeking Help With:** Eager to learn and grow in the field of data science and machine learning. I'm open to mentorship, guidance, and exciting collaboration opportunities on challenging projects.
 
 🌱 **Currently Learning:** Engaged in online courses focused on data science and machine learning to stay abreast of the latest advancements and continuously enhance my skill set.
 
-⚡ **Fun Fact:** When I'm not crunching data, you can find me exploring new hiking trails or experimenting with new recipes in the kitchen.
 <div align="center">
  <br/><br/>
 
