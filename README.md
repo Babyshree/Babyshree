@@ -25,13 +25,14 @@ I specialize in 💭 wrangling data into actionable 💡 insights. Currently, I'
 
 ⚡ **Fun Fact:** When I'm not crunching data, you can find me exploring new hiking trails or experimenting with new recipes in the kitchen.
 
-<img align="right" alt="Coding" width="450" height="500" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif">
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Connect Me! 🌐
-<div align="center">
+<div align="left">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/baby-shree-j-084406286/)[<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="30" /> Kaggle](https://www.kaggle.com/babyshree)
 </div>
+
+<img align="right" alt="Coding" width="550" height="450" src="https://5.imimg.com/data5/SELLER/Default/2021/7/MQ/ZU/UP/114292429/b-voc-data-science-500x500.jpeg">
 
 ### 📑 Tech Stack:
 #### 🖊️ Programming Languages:
