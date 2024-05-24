@@ -24,7 +24,11 @@ I specialize in 💭 wrangling data into actionable 💡 insights. Currently, I'
 🌱 **Currently Learning:** Engaged in online courses focused on data science and machine learning to stay abreast of the latest advancements and continuously enhance my skill set.
 
 ⚡ **Fun Fact:** When I'm not crunching data, you can find me exploring new hiking trails or experimenting with new recipes in the kitchen.
+<div align="center">
+ <br/><br/>
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal)
+</div>
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Connect Me! 🌐
 <div align="left">
@@ -50,16 +54,11 @@ I specialize in 💭 wrangling data into actionable 💡 insights. Currently, I'
 <div align="center">
  <br/><br/>
  
-![Readme Stats](https://github-readme-stats-salesp07.vercel.app/api?username=Babyshree&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
+![Readme Stats](https://github-readme-stats-salesp07.vercel.app/api?username=Babyshree&count_private=true&show_icons=true&rank_icon=github&border_radius=10) ![Streak Stats](https://github-readme-streak-stats-salesp07.vercel.app/?user=Babyshree&count_private=true)
+
+</div>
+<div align="center">
+
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Babyshree&hide=HTML&langs_count=8&layout=compact&&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
 <br/><br/>
-
-![Streak Stats](https://github-readme-streak-stats-salesp07.vercel.app/?user=Babyshree&count_private=true&theme=react&border_radius=10)
-<br/><br/>
-
-![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Babyshree&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
-<br/><br/>
-
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 </div>
