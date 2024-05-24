@@ -33,16 +33,16 @@ I specialize in 💭 wrangling data into actionable 💡 insights. Currently, I'
 <img align="right" alt="Coding" width="550" height="450" src="https://5.imimg.com/data5/SELLER/Default/2021/7/MQ/ZU/UP/114292429/b-voc-data-science-500x500.jpeg">
 
 ### 📑 Tech Stack:
-## 🖊️ Programming Languages:
+#### 🖊️ Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-## 🖊️ Data Science & Machine Learning:
+#### 🖊️ Data Science & Machine Learning:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 
-## 🖊️ Database Management Systems (DBMS):
+#### 🖊️ Database Management Systems (DBMS):
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
-## 🖊️ Web Development:
+#### 🖊️ Web Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) 
 
 <div align="center">
