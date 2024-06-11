@@ -25,6 +25,9 @@ I specialize in 💭 wrangling data into actionable 💡 insights. Currently, I'
  <br/><br/>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal)
+
+ <br/><br/>
+
 </div>
 
 <img align="right" alt="Coding" width="550" height="450" src="https://5.imimg.com/data5/SELLER/Default/2021/7/MQ/ZU/UP/114292429/b-voc-data-science-500x500.jpeg">
@@ -40,7 +43,7 @@ I specialize in 💭 wrangling data into actionable 💡 insights. Currently, I'
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 #### 🖊️ Web Development:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 
 <div align="center">
  <br/><br/>
